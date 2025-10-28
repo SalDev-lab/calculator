@@ -120,7 +120,8 @@ document.addEventListener("DOMContentLoaded", function () {
     // "Calculate Another" button
     const calcAnother = document.querySelector(".comp_btn2");
     calcAnother?.addEventListener("click", () => {
-      window.location.href = "./calculateTax.html";
+      window.location.href = "./index.html";
     });
   }
 });
+
